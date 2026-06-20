@@ -175,3 +175,8 @@ cython_debug/
 
 # Large local dataset
 Data/US_Accidents_March23.csv
+
+Data/cleaned_us_accidents.parquet
+Data/cleaned_us_accidents.csv
+
+
